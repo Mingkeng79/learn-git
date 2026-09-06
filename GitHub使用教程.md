@@ -348,3 +348,5 @@ cd 某仓库
 - **将已有项目托管到 GitHub**：`git init` → 配 `.gitignore` → `add` → `commit` → `remote add` → `push`。
 
 > ⚠️ 托管真实项目时，**大文件用 `.gitignore` 排除**，别把几十 MB 的数据/图片传上 GitHub。
+
+待补充！
